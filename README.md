@@ -2,7 +2,7 @@
 
 > A modern, premium Android real-time chat application inspired by WhatsApp. Built with Java, Firebase Firestore, and Firebase Cloud Messaging (FCM) for instant messaging and push notifications.
 
-🎬 **Watch the Demo Video — Chat Application:** *(add your YouTube link here)*
+🎬 **Watch the Demo Video — Chat Application:** *(https://youtu.be/dhKDxGLqxrM)*
 
 [![Android](https://img.shields.io/badge/Android-API_24%2B-3DDC84.svg?style=flat-square&logo=android)](https://developer.android.com/)
 [![Java](https://img.shields.io/badge/Java-8-ED8B00.svg?style=flat-square&logo=openjdk)](https://www.java.com/)
@@ -175,19 +175,40 @@ cd Chat_Application
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+```
+MIT License
+
+Copyright (c) Chat Mobile Application ---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
 ## 👨‍💻 Author
 
 **Anas Ahmed Qureshi** — [@AnasQ2003](https://github.com/AnasQ2003)
-*TechNet Cloud — Android Development Coursework*
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ using <strong>Java & Firebase</strong></p>
 
-  **⭐ If you found this project helpful, please star the repository!**
+Built with ❤️ by **Anas**
+
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
 </div>
