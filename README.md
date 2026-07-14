@@ -15,7 +15,7 @@
 
 The **Chat Application** is a high-performance, native Android real-time communication platform built on a Firebase Firestore database. The application is designed to simulate a professional messaging experience like WhatsApp or Telegram, enabling real-time conversations, user status updates, profile image sharing, and instant push notifications.
 
-This project was developed as part of coursework at **TechNet Cloud** to demonstrate advanced Android architecture, cloud database integration (NoSQL), Retrofit-based HTTP messaging APIs, and background service lifecycle management.
+This project was developed to demonstrate advanced Android architecture, cloud database integration (NoSQL), Retrofit-based HTTP messaging APIs, and background service lifecycle management.
 
 ---
 
