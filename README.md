@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # 💬 Chat Application — Native Android Real-time Messaging Suite
 
 > A modern, premium Android real-time chat application inspired by WhatsApp. Built with Java, Firebase Firestore, and Firebase Cloud Messaging (FCM) for instant messaging and push notifications.
@@ -8,6 +11,8 @@
 [![Java](https://img.shields.io/badge/Java-8-ED8B00.svg?style=flat-square&logo=openjdk)](https://www.java.com/)
 [![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-Cloud-FFCA28.svg?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![FCM Push Notifications](https://img.shields.io/badge/FCM_Notifications-Push-FFCA28.svg?style=flat-square&logo=firebase)](https://firebase.google.com/)
+
+</div>
 
 ---
 
@@ -178,7 +183,7 @@ cd Chat_Application
 ```
 MIT License
 
-Copyright (c) Chat Mobile Application ---2026 AnasQ2003
+Copyright (c) Chat Mobile Application --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
